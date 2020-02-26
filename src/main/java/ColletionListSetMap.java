@@ -1,7 +1,7 @@
 /**
- * Ryan Petersen 217027806
- * 3G
- * Chapter 2 Assignment Question 1
+ * Clayton Claassens
+ * 3A
+ * Assignment2
  *JUnit
  */
 import java.util.*;
