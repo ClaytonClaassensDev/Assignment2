@@ -17,6 +17,7 @@ import static org.junit.Assert.*;
  * Clayton Claassens 217299695
  * 3A
  * Assignment2
+ * JUnit
  */
 public class CollectionListSetMapTest
 {

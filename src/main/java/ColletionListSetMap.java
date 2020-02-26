@@ -2,7 +2,7 @@
  * Ryan Petersen 217027806
  * 3G
  * Chapter 2 Assignment Question 1
- *
+ *JUnit
  */
 import java.util.*;
 public class ColletionListSetMap {

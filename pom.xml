@@ -17,7 +17,6 @@
             <version>3.8.2</version>
         </dependency></dependencies>
 
-    <artifactId>hamcrest-core</artifactId>
     <packaging>jar</packaging>
     <name>Hamcrest Core</name>
 
